@@ -99,4 +99,6 @@ public class Card {
 	//public String toString() {
 		/* *** TO BE IMPLEMENTED IN ACTIVITY 1 *** */
 	 //}
+	 /* Ummmm... you forgot something...
+	  */
 }
