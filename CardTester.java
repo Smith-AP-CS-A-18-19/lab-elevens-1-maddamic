@@ -27,8 +27,12 @@ public class CardTester {
 		}
 		System.out.println("Expected: Bad");
 
-
-		// card1.suit("Spades");
+		if (card1.toString().equals("Ace of Spades (point value = 1)")) {
+			System.out.println("Good");
+		} else {
+			System.out.println("Bad");
+		}
+		System.out.println("Expected: Good");
 
 		/* *** TO BE IMPLEMENTED IN ACTIVITY 1 *** */
 	}
